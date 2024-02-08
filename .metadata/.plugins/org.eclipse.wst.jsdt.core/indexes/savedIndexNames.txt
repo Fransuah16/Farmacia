@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\frank\Desktop\Desaroollo Soft\Farmacia\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3499446782.index
+3877698777.index
+648121428.index
+3969537891.index
+1502985996.index
+2048787938.index
